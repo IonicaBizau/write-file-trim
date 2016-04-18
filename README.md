@@ -2,6 +2,7 @@
 
 > Write the content in a file after removing the trailing spaces.
 
+
 ## :cloud: Installation
     
 ```sh
