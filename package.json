@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/write-file-trim/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/write-file-trim#readme"
+  "homepage": "https://github.com/IonicaBizau/write-file-trim#readme",
+  "dependencies": {
+    "remove-trailing-spaces": "^1.0.0"
+  }
 }

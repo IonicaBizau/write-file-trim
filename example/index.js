@@ -2,4 +2,9 @@
 
 const writeFileTrim = require("../lib");
 
-console.log(writeFileTrim());
+writeFileTrim("test.txt", "foo   \nbar  \t \t", (err, data) => {
+    console.log(err || "Saved.");
+    // File content (without any trailing spaces/tabs):
+    // foo
+    // bar
+});
