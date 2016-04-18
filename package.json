@@ -18,7 +18,7 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "repository": {
@@ -31,5 +31,8 @@
   "homepage": "https://github.com/IonicaBizau/write-file-trim#readme",
   "dependencies": {
     "remove-trailing-spaces": "^1.0.0"
+  },
+  "devDependencies": {
+    "tester": "^1.3.1"
   }
 }
