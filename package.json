@@ -1,0 +1,32 @@
+{
+  "name": "write-file-trim",
+  "description": "Write the content in a file after removing the trailing spaces.",
+  "keywords": [
+    "write",
+    "file",
+    "trim",
+    "the",
+    "content",
+    "in",
+    "a",
+    "after",
+    "removing",
+    "trailing",
+    "spaces"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/write-file-trim.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/write-file-trim/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/write-file-trim#readme"
+}
